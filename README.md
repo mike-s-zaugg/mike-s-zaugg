@@ -2,7 +2,7 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Mike Sandor Zaugg
+name: Mike Zaugg
 located_in: Aargau, Switzerland
 current_job: Informatiker Applikationsentwicklung
 education:
@@ -17,11 +17,9 @@ fields_of_interests:
   ]
 technical_background:
   [
-    "Full Stack Developer"
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
+    "Bezirkschule Aargau"
+    "Berufsmaturiät"
+    "Developer in an Apprenticeship"
   ]
   
 currently_learning: ["JavaScript, SCSS, PHP"]
