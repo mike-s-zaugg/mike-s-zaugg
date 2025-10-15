@@ -1,20 +1,28 @@
-<h1 align="center">Hi 👋, I'm Mike</h1>
-<h3 align="center">Apprentice in Software Development</h3>
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mike-s-zaugg" alt="mike-s-zaugg" /></a> </p>
+```yaml
+name: Mike Zaugg
+located_in: Aargau, Switzerland
+current_job: Informatiker Applikationsentwicklung
+education:
+  [
+    "Developer in an Apprenticeship"
+  ]
 
-- 🔭 I’m currently working on [my portfolio](https://mikezaugg.ch)
-
-- 🌱 I’m currently learning **JavaScript and PHP**
-
-- 👨‍💻 My projects are available at [https://mikezaugg.ch](https://mikezaugg.ch)
-
-- 💬 Ask me about **HTML, CSS, BOOTSTRAP**
-
-- 📫 How to reach me **info@mikezaugg.ch**
-
-- ⚡ Fun fact **im a drummer**
-
+fields_of_interests:
+  [
+    "Web Development"
+  ]
+technical_background:
+  [
+    "Berufsmaturiät"
+    "Developer in an Apprenticeship"
+  ]
+  
+currently_learning: ["JavaScript, PHP"]
+2025 Goals: ["Create 5+ Projects and get better at my Technologies."]
+hobbies: ["Gaming", "Cinema", "Motorcycle", "Drums", "Gym"]
+```
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mike sandor zaugg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mike sandor zaugg" height="30" width="40" /></a>
