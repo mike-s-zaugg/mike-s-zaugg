@@ -1,36 +1,54 @@
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+<div align="center">
 
-```yaml
-name: Mike Zaugg
-located_in: Aargau, Switzerland
-current_job: Informatiker Applikationsentwicklung
-education:
-  [
-    "Developer in an Apprenticeship"
-  ]
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&customColorList=0&height=140&section=header&text=mike-s-zaugg&fontSize=42&fontColor=58a6ff&fontAlignY=55&animation=fadeIn" width="100%"/>
 
-fields_of_interests:
-  [
-    "Web Development"
-  ]
-technical_background:
-  [
-    "Berufsmaturiät"
-    "Developer in an Apprenticeship"
-  ]
-  
-currently_learning: ["JavaScript, PHP"]
-2025 Goals: ["Create 5+ Projects and get better at my Technologies."]
-hobbies: ["Gaming", "Cinema", "Motorcycle", "Drums", "Gym"]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=480&lines=Lehrling+Informatik+Applikationsentwicklung;JavaScript+%E2%80%A2+TypeScript+%E2%80%A2+PHP;Building+stuff+that+runs+in+browsers.)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+```ts
+const mike = {
+  role:     "Lehrling Informatiker Applikationsentwicklung",
+  stack:    ["JavaScript", "TypeScript", "PHP", "HTML", "CSS"],
+  learning: "immer was Neues",
+};
 ```
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mike sandor zaugg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mike sandor zaugg" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+---
 
+<div align="center">
 
+### Stack
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mike-s-zaugg&show_icons=true&locale=en&layout=compact" alt="mike-s-zaugg" /></p>
+[![Skills](https://skillicons.dev/icons?i=js,ts,php,html,css,git,vscode&theme=dark&perline=7)](https://skillicons.dev)
+
+</div>
+
+---
+
+<div align="center">
+
+### Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=mike-s-zaugg&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&rank_icon=github" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mike-s-zaugg&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&langs_count=6" width="40%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Gerade am Hören
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=96emyaqhjhddfnwz8ma5co7pd&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=80&section=footer" width="100%"/>
+</div>
